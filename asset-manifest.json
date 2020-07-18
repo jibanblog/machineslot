@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/machineslot/static/css/main.d3aa593b.chunk.css",
+    "main.css": "/machineslot/static/css/main.da2a791d.chunk.css",
     "main.js": "/machineslot/static/js/main.95cc5830.chunk.js",
     "main.js.map": "/machineslot/static/js/main.95cc5830.chunk.js.map",
     "runtime-main.js": "/machineslot/static/js/runtime-main.cb96b049.js",
@@ -8,15 +8,15 @@
     "static/js/2.254e522b.chunk.js": "/machineslot/static/js/2.254e522b.chunk.js",
     "static/js/2.254e522b.chunk.js.map": "/machineslot/static/js/2.254e522b.chunk.js.map",
     "index.html": "/machineslot/index.html",
-    "precache-manifest.91b69eabbf8403baab6933d81719d639.js": "/machineslot/precache-manifest.91b69eabbf8403baab6933d81719d639.js",
+    "precache-manifest.6b03d9fd14ee1aa2a30adca8c9212b6d.js": "/machineslot/precache-manifest.6b03d9fd14ee1aa2a30adca8c9212b6d.js",
     "service-worker.js": "/machineslot/service-worker.js",
-    "static/css/main.d3aa593b.chunk.css.map": "/machineslot/static/css/main.d3aa593b.chunk.css.map",
+    "static/css/main.da2a791d.chunk.css.map": "/machineslot/static/css/main.da2a791d.chunk.css.map",
     "static/js/2.254e522b.chunk.js.LICENSE.txt": "/machineslot/static/js/2.254e522b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb96b049.js",
     "static/js/2.254e522b.chunk.js",
-    "static/css/main.d3aa593b.chunk.css",
+    "static/css/main.da2a791d.chunk.css",
     "static/js/main.95cc5830.chunk.js"
   ]
 }
