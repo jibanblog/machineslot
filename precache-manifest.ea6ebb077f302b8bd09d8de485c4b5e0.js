@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "164b64941fe4e0a0aec37bb5a388ade9",
+    "revision": "ad37a6c3b19a18ae7e564f2e3370fd6c",
     "url": "/machineslot/index.html"
   },
   {
-    "revision": "2053c23405d8e0673405",
-    "url": "/machineslot/static/css/main.b5b52b06.chunk.css"
+    "revision": "ddd1d990bbc0a0bad82f",
+    "url": "/machineslot/static/css/main.1caddb17.chunk.css"
   },
   {
     "revision": "28698757616be9a21375",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/machineslot/static/js/2.254e522b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2053c23405d8e0673405",
+    "revision": "ddd1d990bbc0a0bad82f",
     "url": "/machineslot/static/js/main.95cc5830.chunk.js"
   },
   {

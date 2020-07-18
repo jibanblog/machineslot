@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/machineslot/static/css/main.b5b52b06.chunk.css",
+    "main.css": "/machineslot/static/css/main.1caddb17.chunk.css",
     "main.js": "/machineslot/static/js/main.95cc5830.chunk.js",
     "main.js.map": "/machineslot/static/js/main.95cc5830.chunk.js.map",
     "runtime-main.js": "/machineslot/static/js/runtime-main.cb96b049.js",
@@ -8,15 +8,15 @@
     "static/js/2.254e522b.chunk.js": "/machineslot/static/js/2.254e522b.chunk.js",
     "static/js/2.254e522b.chunk.js.map": "/machineslot/static/js/2.254e522b.chunk.js.map",
     "index.html": "/machineslot/index.html",
-    "precache-manifest.80bf3ca20521ba40ae35ee1e39d0dd8f.js": "/machineslot/precache-manifest.80bf3ca20521ba40ae35ee1e39d0dd8f.js",
+    "precache-manifest.ea6ebb077f302b8bd09d8de485c4b5e0.js": "/machineslot/precache-manifest.ea6ebb077f302b8bd09d8de485c4b5e0.js",
     "service-worker.js": "/machineslot/service-worker.js",
-    "static/css/main.b5b52b06.chunk.css.map": "/machineslot/static/css/main.b5b52b06.chunk.css.map",
+    "static/css/main.1caddb17.chunk.css.map": "/machineslot/static/css/main.1caddb17.chunk.css.map",
     "static/js/2.254e522b.chunk.js.LICENSE.txt": "/machineslot/static/js/2.254e522b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb96b049.js",
     "static/js/2.254e522b.chunk.js",
-    "static/css/main.b5b52b06.chunk.css",
+    "static/css/main.1caddb17.chunk.css",
     "static/js/main.95cc5830.chunk.js"
   ]
 }
